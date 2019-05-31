@@ -1,0 +1,1 @@
+getting started in colab, strings/ints/floats/booleans, Lists & dictionaries & arrays, for/while and if, functions, pandas, data storage (bash, pickle, & files), runtime estimation & speed optimization
